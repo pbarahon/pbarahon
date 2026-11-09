@@ -1,132 +1,110 @@
 
 # Hola, soy pbarahon 👋
 
-### 🎓 Estudiante de Computación | ESPOL
+<table>
+<tr>
+<td width="60%" valign="top">
+<h3>🎓 Estudiante de Computación | ESPOL</h3>
+<p>¡Bienvenido a mi perfil! Soy estudiante de <strong>Ingeniería en Computación</strong> en la <strong>Escuela Superior Politécnica del Litoral (ESPOL)</strong>, Ecuador.</p>
+<p>Me interesa conocer cómo funcionan las tecnologías que utilizamos a diario y cómo la programación puede ayudarnos a desarrollar soluciones. Durante mi formación he participado en proyectos que me han permitido aprender, experimentar y trabajar en equipo.</p>
+<h3>🧭 Un poco sobre mí</h3>
+<ul>
+<li>💻 <strong>Formación:</strong> Ingeniería en Computación.</li>
+<li>🌱 <strong>Actualmente:</strong> ampliando mis conocimientos en desarrollo de software.</li>
+<li>🛠️ <strong>Intereses:</strong> desarrollo web, programación y sistemas informáticos.</li>
+<li>🤝 <strong>Experiencia:</strong> proyectos académicos individuales y colaborativos.</li>
+<li>🎯 <strong>Objetivo:</strong> seguir aprendiendo y desarrollar proyectos cada vez más completos.</li>
+</ul>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="manga_pbarahon.jfif" width="320" alt="Ilustración de estilo manga" />
+</td>
+</tr>
+</table>
 
 > 「 Aprendiendo, creando y explorando el mundo del desarrollo de software. 」
 
-¡Bienvenido a mi perfil!
-
-Soy estudiante de **Ingeniería en Computación** en la **Escuela Superior Politécnica del Litoral (ESPOL)**, Ecuador.
-
-Me interesa conocer cómo funcionan las tecnologías que utilizamos a diario y cómo podemos aprovechar la programación para desarrollar soluciones. Durante mi formación he participado en distintos proyectos académicos que me han permitido experimentar con varias herramientas, trabajar en equipo y poner en práctica lo aprendido en clases.
+Este portafolio reúne algunos de los trabajos que he realizado durante mi carrera. Más que mostrar código, quiero compartir lo que he desarrollado, las herramientas que he utilizado y lo que he aprendido en el proceso.
 
 ---
 
-### 🧭 Un poco sobre mí
-
-- 💻 **Formación:** Ingeniería en Computación.
-- 🌱 **Actualmente:** ampliando mis conocimientos en desarrollo de software.
-- 🛠️ **Intereses:** desarrollo web, programación y sistemas informáticos.
-- 🤝 **Experiencia:** proyectos académicos individuales y colaborativos.
-- 🎯 **Objetivo:** seguir aprendiendo y desarrollar proyectos cada vez más completos.
-
-
----
-
-### 📂 ¿Qué encontrarás aquí?
-
-Este perfil es mi espacio para reunir algunos de los trabajos que he realizado durante mi carrera y documentar mi progreso.
-
-La idea no es únicamente mostrar código, sino también compartir **qué he desarrollado, qué herramientas he utilizado y qué he aprendido en el proceso**.
-
----
-
-*«Todavía queda mucho por aprender.»*
 
 
 ## 📁 Proyectos destacados
 
-Estos son algunos de los proyectos en los que he trabajado durante mi formación universitaria. Cada uno representa una oportunidad para aplicar conocimientos, explorar herramientas y aprender de la experiencia.
+Estos trabajos forman parte de mi aprendizaje universitario. Algunos son colaborativos y otros corresponden a prácticas de clase.
 
 ### 🌱 Feria del Cacao
 
-**Desarrollo web | Proyecto colaborativo**
+**Desarrollo web · Proyecto colaborativo**
 
-Página web informativa sobre la Feria del Cacao realizada por el Museo Nacional del Cacao. Presenta información sobre el evento y la importancia cultural y económica del cacao ecuatoriano.
+Sitio informativo sobre la Feria del Cacao del Museo Nacional del Cacao y la importancia cultural y económica del cacao ecuatoriano.
 
-Durante este proyecto trabajé junto a un compañero en la investigación y recopilación de información necesaria para elaborar el contenido de la página.
+- **Mi participación:** investigación y recopilación de información junto con un compañero.
+- **Características:** contenido organizado en secciones, fotografías y adaptación de una plantilla web.
+- **Tecnologías presentes en el sitio:** `HTML` · `CSS` · `JavaScript`.
 
-**Tecnologías:** `HTML` · `CSS` · `JavaScript`
-
-**Características:**
-- Presentación de información sobre la feria.
-- Organización del contenido en secciones.
-- Incorporación de imágenes y recursos visuales.
-- Adaptación de una plantilla web para presentar la información.
-
-🔗 [Ver repositorio](https://github.com/dnatt8/Feria-del-Cacao) | [Visitar página web](https://dnatt8.github.io/Feria-del-Cacao/)
-
----
+[📂 Repositorio](https://github.com/dnatt8/Feria-del-Cacao) · [🌐 Ver sitio web](https://dnatt8.github.io/Feria-del-Cacao/)
 
 ### 💻 Currículum web — DAWM
 
-**Desarrollo web | Práctica académica**
+**Desarrollo web · Práctica académica**
 
-Proyecto realizado durante una clase de Desarrollo de Aplicaciones Web y Móviles, con el objetivo de practicar la creación de una página web utilizando HTML y CSS.
+Currículum en formato web realizado como práctica de la materia Desarrollo de Aplicaciones Web y Móviles.
 
-Esta actividad me permitió familiarizarme con la estructura de un documento HTML y la aplicación de estilos para organizar y presentar información.
+- **Características:** estructura de información personal mediante HTML y presentación visual con CSS.
+- **Aprendizaje:** organizar el contenido de una página y aplicar estilos para mejorar su presentación.
+- **Tecnologías:** `HTML` · `CSS`.
 
-**Tecnologías:** `HTML` · `CSS`
-
-**Características:**
-- Estructuración de contenido con HTML.
-- Aplicación de estilos mediante CSS.
-- Presentación de información personal en formato web.
-
-🔗 [Ver repositorio](https://github.com/pbarahon/dawm-cv)
-
----
+[📂 Repositorio](https://github.com/pbarahon/dawm-cv)
 
 ### ⚙️ Proyecto de Programación Orientada a Objetos
 
-**Programación | Proyecto académico**
+**Programación · Proyecto académico**
 
-Repositorio de un trabajo académico relacionado con la programación orientada a objetos en Java.
+Repositorio de un trabajo universitario relacionado con la programación orientada a objetos. Incluye código para representar clientes, órdenes, técnicos y vehículos, así como operaciones de servicios y facturación.
 
-El código incluye componentes para representar clientes, órdenes, técnicos y vehículos, además de operaciones relacionadas con los servicios y la facturación.
+- **Características:** clases, atributos, métodos y organización del programa por componentes.
+- **Conceptos que permite observar:** modelado de entidades y manejo de información mediante objetos.
+- **Tecnología:** `Java`.
 
-Es una muestra de los conceptos de programación orientada a objetos estudiados durante mi formación.
-
-**Tecnologías:** `Java`
-
-**Características:**
-- Representación de entidades mediante clases.
-- Manejo de atributos y métodos.
-- Organización de operaciones relacionadas con órdenes y servicios.
-- Uso de colecciones para gestionar información.
-
-🔗 [Ver repositorio](https://github.com/pbarahon/Proyecto-poo)
+[📂 Repositorio](https://github.com/pbarahon/Proyecto-poo)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-A lo largo de mi formación he tenido la oportunidad de trabajar con distintos lenguajes y herramientas. Todavía estoy ampliando mis conocimientos, pero estas son algunas de las tecnologías con las que he adquirido experiencia práctica.
+Estas son algunas de las herramientas que he utilizado durante la carrera. Las menciono junto a ejemplos de aplicación, más que como una lista de tecnologías que domino.
 
 ### 🌐 Desarrollo web
 
-| Tecnología | Aplicación |
-|:---|:---|
-| **HTML5** | Creación y organización del contenido de páginas web, como el currículum desarrollado en DAWM. |
-| **CSS3** | Aplicación de estilos, colores y distribución de elementos en interfaces web. |
-| **JavaScript** | Familiarización con su uso en proyectos web, como la página colaborativa de la Feria del Cacao. |
+| Tecnología | ¿Dónde la he utilizado? |
+| :--- | :--- |
+| **HTML5** | Estructuración del currículum web de DAWM y trabajo con páginas informativas. |
+| **CSS3** | Presentación, distribución y estilos de interfaces web. |
+| **JavaScript** | Acercamiento a su uso en proyectos web, como el sitio colaborativo de la Feria del Cacao. |
 
 ### 💻 Programación
 
-| Tecnología | Aplicación |
-|:---|:---|
-| **Java** | Estudio de programación orientada a objetos, clases, métodos y organización del código en proyectos académicos. |
-| **C** | Desarrollo de ejercicios de programación de sistemas, utilizando funciones, archivos y compilación mediante Makefile. |
+| Tecnología | ¿Dónde la he utilizado? |
+| :--- | :--- |
+| **Java** | Prácticas de programación orientada a objetos: clases, métodos y organización del código. |
+| **C** | Ejercicios de programación de sistemas con funciones, archivos y compilación mediante Makefile. |
 
 ### ⚙️ Herramientas y entorno
 
-| Herramienta | Aplicación |
-|:---|:---|
-| **Git y GitHub** | Control de versiones, almacenamiento de repositorios y seguimiento de cambios mediante commits. |
-| **Linux / WSL** | Entorno de trabajo para compilar, ejecutar y probar programas desde la terminal. |
-| **Markdown** | Documentación y organización de información en archivos README. |
+| Herramienta | ¿Para qué la utilizo? |
+| :--- | :--- |
+| **Git y GitHub** | Versionar proyectos, conservar repositorios y registrar avances con commits. |
+| **Linux / WSL** | Compilar, ejecutar y probar programas desde la terminal. |
+| **Markdown** | Documentar proyectos y mantener archivos README claros. |
 
 ---
 
-> 💡 Me interesa seguir explorando nuevas tecnologías y mejorar mis conocimientos mediante la práctica y el desarrollo de proyectos.
+## 📬 Contacto
+
+Puedes encontrar mis repositorios y seguir mis avances en [**GitHub · @pbarahon**](https://github.com/pbarahon).
+
+---
+
+*「 Todavía queda mucho por aprender. 」*
