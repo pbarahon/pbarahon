@@ -21,7 +21,74 @@ Me interesa conocer cómo funcionan las tecnologías que utilizamos a diario y c
 - 🤝 **Experiencia:** proyectos académicos individuales y colaborativos.
 - 🎯 **Objetivo:** seguir aprendiendo y desarrollar proyectos cada vez más completos.
 
+
 ---
+
+## 📁 Proyectos destacados
+
+Estos son algunos de los proyectos en los que he trabajado durante mi formación universitaria. Cada uno representa una oportunidad para aplicar conocimientos, explorar herramientas y aprender de la experiencia.
+
+### 🌱 Feria del Cacao
+
+**Desarrollo web | Proyecto colaborativo**
+
+Página web informativa sobre la Feria del Cacao realizada por el Museo Nacional del Cacao. Presenta información sobre el evento y la importancia cultural y económica del cacao ecuatoriano.
+
+Durante este proyecto trabajé junto a un compañero en la investigación y recopilación de información necesaria para elaborar el contenido de la página.
+
+**Tecnologías:** `HTML` · `CSS` · `JavaScript`
+
+**Características:**
+- Presentación de información sobre la feria.
+- Organización del contenido en secciones.
+- Incorporación de imágenes y recursos visuales.
+- Adaptación de una plantilla web para presentar la información.
+
+🔗 [Ver repositorio](https://github.com/dnatt8/Feria-del-Cacao) | [Visitar página web](https://dnatt8.github.io/Feria-del-Cacao/)
+
+---
+
+### 💻 Currículum web — DAWM
+
+**Desarrollo web | Práctica académica**
+
+Proyecto realizado durante una clase de Desarrollo de Aplicaciones Web y Móviles, con el objetivo de practicar la creación de una página web utilizando HTML y CSS.
+
+Esta actividad me permitió familiarizarme con la estructura de un documento HTML y la aplicación de estilos para organizar y presentar información.
+
+**Tecnologías:** `HTML` · `CSS`
+
+**Características:**
+- Estructuración de contenido con HTML.
+- Aplicación de estilos mediante CSS.
+- Presentación de información personal en formato web.
+
+🔗 [Ver repositorio](https://github.com/pbarahon/dawm-cv)
+
+---
+
+### ⚙️ Proyecto de Programación Orientada a Objetos
+
+**Programación | Proyecto académico**
+
+Repositorio de un trabajo académico relacionado con la programación orientada a objetos en Java.
+
+El código incluye componentes para representar clientes, órdenes, técnicos y vehículos, además de operaciones relacionadas con los servicios y la facturación.
+
+Es una muestra de los conceptos de programación orientada a objetos estudiados durante mi formación.
+
+**Tecnologías:** `Java`
+
+**Características:**
+- Representación de entidades mediante clases.
+- Manejo de atributos y métodos.
+- Organización de operaciones relacionadas con órdenes y servicios.
+- Uso de colecciones para gestionar información.
+
+🔗 [Ver repositorio](https://github.com/pbarahon/Proyecto-poo)
+
+---
+
 
 ### 📂 ¿Qué encontrarás aquí?
 
