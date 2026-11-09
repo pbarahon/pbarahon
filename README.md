@@ -24,6 +24,17 @@ Me interesa conocer cómo funcionan las tecnologías que utilizamos a diario y c
 
 ---
 
+### 📂 ¿Qué encontrarás aquí?
+
+Este perfil es mi espacio para reunir algunos de los trabajos que he realizado durante mi carrera y documentar mi progreso.
+
+La idea no es únicamente mostrar código, sino también compartir **qué he desarrollado, qué herramientas he utilizado y qué he aprendido en el proceso**.
+
+---
+
+*«Todavía queda mucho por aprender.»*
+
+
 ## 📁 Proyectos destacados
 
 Estos son algunos de los proyectos en los que he trabajado durante mi formación universitaria. Cada uno representa una oportunidad para aplicar conocimientos, explorar herramientas y aprender de la experiencia.
@@ -89,13 +100,33 @@ Es una muestra de los conceptos de programación orientada a objetos estudiados 
 
 ---
 
+## 🛠️ Tecnologías y herramientas
 
-### 📂 ¿Qué encontrarás aquí?
+A lo largo de mi formación he tenido la oportunidad de trabajar con distintos lenguajes y herramientas. Todavía estoy ampliando mis conocimientos, pero estas son algunas de las tecnologías con las que he adquirido experiencia práctica.
 
-Este perfil es mi espacio para reunir algunos de los trabajos que he realizado durante mi carrera y documentar mi progreso.
+### 🌐 Desarrollo web
 
-La idea no es únicamente mostrar código, sino también compartir **qué he desarrollado, qué herramientas he utilizado y qué he aprendido en el proceso**.
+| Tecnología | Aplicación |
+|:---|:---|
+| **HTML5** | Creación y organización del contenido de páginas web, como el currículum desarrollado en DAWM. |
+| **CSS3** | Aplicación de estilos, colores y distribución de elementos en interfaces web. |
+| **JavaScript** | Familiarización con su uso en proyectos web, como la página colaborativa de la Feria del Cacao. |
+
+### 💻 Programación
+
+| Tecnología | Aplicación |
+|:---|:---|
+| **Java** | Estudio de programación orientada a objetos, clases, métodos y organización del código en proyectos académicos. |
+| **C** | Desarrollo de ejercicios de programación de sistemas, utilizando funciones, archivos y compilación mediante Makefile. |
+
+### ⚙️ Herramientas y entorno
+
+| Herramienta | Aplicación |
+|:---|:---|
+| **Git y GitHub** | Control de versiones, almacenamiento de repositorios y seguimiento de cambios mediante commits. |
+| **Linux / WSL** | Entorno de trabajo para compilar, ejecutar y probar programas desde la terminal. |
+| **Markdown** | Documentación y organización de información en archivos README. |
 
 ---
 
-*«Todavía queda mucho por aprender.»*
+> 💡 Me interesa seguir explorando nuevas tecnologías y mejorar mis conocimientos mediante la práctica y el desarrollo de proyectos.
